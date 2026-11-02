@@ -2,6 +2,8 @@
 
 Zet commitregels om in overzichtelijke, bewerkbare Markdown-releasenotes. Prefixen volgens Conventional Commits worden gegroepeerd in functies, fixes, prestaties, documentatie en meer.
 
+**Live demo:** [Probeer Release Note Forge](https://codearcade-ctrl.github.io/release-note-forge/)
+
 **Talen:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Functies

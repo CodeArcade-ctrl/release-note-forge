@@ -2,6 +2,8 @@
 
 Transform commit subjects into tidy, editable Markdown release notes. Conventional Commit prefixes are grouped into features, fixes, performance, documentation, and more.
 
+**Live demo:** [Try Release Note Forge](https://codearcade-ctrl.github.io/release-note-forge/)
+
 **Languages:** [English](README.md) | [Nederlands](README.nl.md)
 
 ## Features
